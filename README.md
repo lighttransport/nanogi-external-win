@@ -2,7 +2,7 @@
 nanogi-external-win
 ====================
 
-A submodule repository for prebuilt external libraries of ``nanogi``.  
+A repository for prebuilt external libraries of ``nanogi``.  
 All dependencies are built for VS2013 x64.
 
 Dependencies
